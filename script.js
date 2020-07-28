@@ -39,7 +39,7 @@ setTimeout(function(){
     //scelti i numeri stampo i rispettivi array ed il risultato della sfida
   console.log('I numeri scelti dal computer sono' + numeriPc) ;
     console.log('Hai indovinato ' + numeriUtente.length + ' numeri:' + numeriUtente) ;
-}, 1000);
+}, 30000);
 console.log(numeriUtente);
 
 
